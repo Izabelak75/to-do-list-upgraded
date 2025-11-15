@@ -6,9 +6,8 @@ A simple and improved To-Do List application built with HTML, CSS and JavaScript
 This upgraded version includes new task-management features and better user experience.
 
 ---
-
 ## How to Interact
-![How to interact](images/todo list upgraded demo.gif)
+[How to interact](https://github.com/Izabelak75/to-do-list-upgraded/raw/main/images/todo_list_upgraded_demo.gif)
 
 🔗 Live version: 
 [My ToDo List Website](https://Izabelak75.github.io/to-do-list/) 
