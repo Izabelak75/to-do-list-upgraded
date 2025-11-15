@@ -10,7 +10,7 @@ This upgraded version includes new task-management features and better user expe
 ![HowToInteract](images/todo_list_upgraded_demo.gif)
 
 🔗 Live version: 
-[My ToDo List Website](https://Izabelak75.github.io/to-do-list/) 
+[My ToDo List Website](https://Izabelak75.github.io/to-do-list-upgraded/) 
 
 
 ---
