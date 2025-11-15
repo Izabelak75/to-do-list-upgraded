@@ -1,18 +1,18 @@
 #  To-Do List Upgraded
 
-![App Image](./images/share.png)
+![App Image](images/share.png)
 
 A simple and improved To-Do List application built with HTML, CSS and JavaScript. 
 This upgraded version includes new task-management features and better user experience.
 
 ---
 
-## Live Demo
-
-![Demo](./images/todo list upgraded demo.gif)
+## How to Interact
+![How to interact](images/todo list upgraded demo.gif)
 
 🔗 Live version: 
-https://IzabelaK75.github.io/To-Do-List-Upgraded/
+[My ToDo List Website](https://Izabelak75.github.io/to-do-list/) 
+
 
 ---
 
@@ -42,7 +42,7 @@ Additional behavior:
 ---
 
 ##  Technologies Used
-- HTML5 
+- HTML5 gi
 - CSS3 
 - JavaScript (ES6+)
 
