@@ -7,6 +7,7 @@ This upgraded version includes new task-management features and better user expe
 
 ---
 ## How to Interact
+![HowToInteract](images/todo_list_upgraded_demo.gif)
 [How to interact](https://github.com/Izabelak75/to-do-list-upgraded/raw/main/images/todo_list_upgraded_demo.gif)
 
 🔗 Live version: 
