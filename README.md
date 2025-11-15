@@ -8,7 +8,6 @@ This upgraded version includes new task-management features and better user expe
 ---
 ## How to Interact
 ![HowToInteract](images/todo_list_upgraded_demo.gif)
-[How to interact](https://github.com/Izabelak75/to-do-list-upgraded/raw/main/images/todo_list_upgraded_demo.gif)
 
 🔗 Live version: 
 [My ToDo List Website](https://Izabelak75.github.io/to-do-list/) 
@@ -50,4 +49,4 @@ Additional behavior:
 
 ##  Author
 **Izabela Kuc** 
-GitHub profile: https://github.com/IzabelaK7
+GitHub profile: https://github.com/Izabelak75
